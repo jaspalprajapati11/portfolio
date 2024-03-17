@@ -8,7 +8,7 @@ import {
 } from "@fortawesome/free-brands-svg-icons";
 import Logo from "../components/common/Logo";
 import Footer from "../components/common/Footer";
-import NavBar from "../components/common/Navbar";
+// import NavBar from "../components/common/Navbar";
 import Works from "../components/homepage/Work";
 import INFO from "../data/User";
 import "./styles/homepage.css";
